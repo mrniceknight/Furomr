@@ -1,3 +1,6 @@
 [submodule "forumr-server"]
 	path = forumr-server
 	url = https://github.com/mrniceknight/forumr-server.git
+[submodule "forumr-client"]
+	path = forumr-client
+	url = git@github.com:mrniceknight/forumr-client.git
