@@ -1,0 +1,23 @@
+{
+  "name": "Furomr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "concurrently \"cd forumr-client && npm start\" \"cd forumr-server && npm start\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrniceknight/Furomr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrniceknight/Furomr/issues"
+  },
+  "homepage": "https://github.com/mrniceknight/Furomr#readme",
+  "dependencies": {
+    "concurrently": "^5.2.0"
+  }
+}
