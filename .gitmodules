@@ -4,3 +4,6 @@
 [submodule "forumr-client"]
 	path = forumr-client
 	url = git@github.com:mrniceknight/forumr-client.git
+[submodule "forumr-client-typescript"]
+	path = forumr-client-typescript
+	url = git@github.com:mrniceknight/forumr-client-typescript.git
